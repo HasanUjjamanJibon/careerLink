@@ -1,0 +1,232 @@
+[
+  {
+    "id": 1,
+    "company_logo": "https://i.postimg.cc/Njykw0Gy/job1-removebg-preview.png",
+    "job_title": "Software Engineer",
+    "company_name": "Swift Technologies",
+    "remote_or_onsite": "Remote",
+    "location": "Boston, MA",
+    "fulltime_or_parttime": "Full-time",
+    "salary": "$120k - $140k (Per Month)",
+    "job_description": "A Software Engineer is an IT professional who designs, develops and maintains computer software at a company. They use their creativity and technical skills and apply the principles of software engineering to help solve new and ongoing problems for an organization.",
+    "job_responsibility": [
+      "Develop and maintain software applications",
+      "Write clean, modular, and maintainable code",
+      "Collaborate with team members to identify and resolve software issues",
+      "Ensure the scalability and performance of applications"
+    ],
+    "educational_requirements": "Bachelor's or Master's degree in Computer Science or related field",
+    "experiences": "3+ years of experience in software development",
+    "contact_information": {
+      "phone": "(555) 555-1111",
+      "email": "jobs@swifttech.com"
+    }
+  },
+  {
+    "id": 2,
+    "company_logo": "https://i.postimg.cc/ZRPLDDbV/job2-removebg-preview.png",
+    "job_title": "Marketing Manager",
+    "company_name": "Crimson Marketing",
+    "remote_or_onsite": "Remote",
+    "location": "Los Angeles, CA",
+    "fulltime_or_parttime": "Part-time",
+    "salary": "$100k - $120k (Per Month)",
+    "job_description": "Marketing Managers are responsible for developing, implementing and executing strategic marketing plans for an entire organization (or lines of business and brands within an organization) in order to attract potential customers and retain existing ones.",
+    "job_responsibility": [
+      "Develop and implement marketing campaigns",
+      "Conduct market research and analyze customer data",
+      "Collaborate with team members to identify and resolve marketing issues",
+      "Create and maintain marketing collateral"
+    ],
+    "educational_requirements": "Bachelor's or Master's degree in Marketing or related field",
+    "experiences": "5+ years of experience in marketing",
+    "contact_information": {
+      "phone": "(555) 555-2222",
+      "email": "jobs@crimsonmktg.com"
+    }
+  },
+  {
+    "id": 3,
+    "company_logo": "https://i.postimg.cc/L5HVdBhR/job3-removebg-preview.png",
+    "job_title": "UX Designer",
+    "company_name": "Vivid Designs",
+    "remote_or_onsite": "Remote",
+    "location": "Chicago, IL",
+    "fulltime_or_parttime": "Part-time",
+    "salary": "$80k - $100k (Per Month)",
+    "job_description": "UI UX designers create the user interface for an app, website, or other interactive media. Their work includes collaborating with product managers and engineers to gather requirements from users before designing ideas that can be communicated using storyboards. They also process flows or sitemaps. They'll then use their creativity while applying color palettes based on what best fits into a particular design conceptually.",
+    "job_responsibility": [
+      "Design user interfaces and experiences",
+      "Conduct user research and usability testing",
+      "Collaborate with team members to identify and resolve UX issues",
+      "Create wireframes and prototypes"
+    ],
+    "educational_requirements": "Bachelor's or Master's degree in Design, Human-Computer Interaction, or related field",
+    "experiences": "3+ years of experience in UX design",
+    "contact_information": {
+      "phone": "(555) 555-3333",
+      "email": "jobs@vividdesigns.com"
+    }
+  },
+  {
+    "id": 4,
+    "company_logo": "https://i.postimg.cc/GtMzFL1v/job4-removebg-preview-removebg-preview.png",
+    "job_title": "Data Analyst",
+    "company_name": "DataCo",
+    "remote_or_onsite": "Remote",
+    "location": "New York, NY",
+    "fulltime_or_parttime": "Part-time",
+    "salary": "$80k - $100k (Per Month)",
+    "job_description": "A Data Analyst is a professional who collects and analyzes data across the business to make informed decisions or assist other team members and leadership in making sound decisions.",
+    "job_responsibility": [
+      "Collect and analyze data from various sources",
+      "Create and maintain databases and data systems",
+      "Collaborate with team members to identify and resolve data issues",
+      "Develop and present data visualizations"
+    ],
+    "educational_requirements": "Bachelor's or Master's degree in Computer Science, Statistics, or related field",
+    "experiences": "2+ years of experience in data analysis",
+    "contact_information": {
+      "phone": "(555) 555-4444",
+      "email": "jobs@dataco.com"
+    }
+  },
+  {
+    "id": 5,
+    "company_logo": "https://i.postimg.cc/tC4z25LN/job5-removebg-preview.png",
+    "job_title": "Sales Representative",
+    "company_name": "SalesPro",
+    "remote_or_onsite": "Onsite",
+    "location": "San Francisco, CA",
+    "fulltime_or_parttime": "Full-time",
+    "salary": "$70k - $90k (Per Month)",
+    "job_description": "The Sales Representative is responsible for selling products and meeting customer needs while obtaining orders from existing or potential sales outlets. They ensure that the customer is satisfied and adequately taken care of while making a purchase. This way, they can establish new accounts for their employer.",
+    "job_responsibility": [
+      "Develop and maintain relationships with customers",
+      "Create and execute sales strategies",
+      "Collaborate with team members to identify and resolve sales issues",
+      "Provide exceptional customer service"
+    ],
+    "educational_requirements": "Bachelor's degree in Business Administration, Marketing, or related field",
+    "experiences": "3+ years of experience in sales",
+    "contact_information": {
+      "phone": "(555) 555-5555",
+      "email": "jobs@salespro.com"
+    }
+  },
+  {
+    "id": 6,
+    "company_logo": "https://i.postimg.cc/cCXBdg83/job6-removebg-preview.png",
+    "job_title": "Web Developer",
+    "company_name": "ABC Company",
+    "remote_or_onsite": "Remote",
+    "location": "New York, NY",
+    "fulltime_or_parttime": "Part-time",
+    "salary": "$80k - $100k (Per Month)",
+    "job_description": "A Web Developer is a professional who is responsible for the design and construction of websites. They ensure that sites meet user expectations by ensuring they look good, run smoothly and offer easy access points with no loading issues between pages or error messages.",
+    "job_responsibility": [
+      "Design and develop web applications and websites for clients",
+      "Collaborate with team members to identify and resolve software-related issues",
+      "Write and maintain technical documentation",
+      "Stay up-to-date with emerging web development trends and technologies"
+    ],
+    "educational_requirements": "Bachelor's degree in Computer Science or related field",
+    "experiences": "2+ years of experience in web development",
+    "contact_information": {
+      "phone": "(555) 555-1234",
+      "email": "jobs@abccompany.com"
+    }
+  },
+  {
+    "id": 7,
+    "company_logo": "https://i.postimg.cc/J7qqNgdh/job7-removebg-preview.png",
+    "job_title": "Software Developer",
+    "company_name": "XYZ Corporation",
+    "remote_or_onsite": "Onsite",
+    "location": "San Francisco, CA",
+    "fulltime_or_parttime": "Full-time",
+    "salary": "$120k - $150k (Per Month)",
+    "job_description": "A Software Developer is a professional who is charged with designing and coding software for businesses and consumers alike. They work closely with clients to determine what they need, then use programming languages like Java or C++ to create programs.",
+    "job_responsibility": [
+      "Design, develop, and test software applications",
+      "Collaborate with cross-functional teams to identify and solve complex software problems",
+      "Write and maintain technical documentation",
+      "Stay up-to-date with emerging software development trends and technologies"
+    ],
+    "educational_requirements": "Bachelor's degree in Computer Science or related field",
+    "experiences": "5+ years of experience in software engineering",
+    "contact_information": {
+      "phone": "(555) 555-1234",
+      "email": "jobs@xyzcorp.com"
+    }
+  },
+  {
+    "id": 8,
+    "company_logo": "https://i.postimg.cc/mg0NZGhm/job8-removebg-preview.png",
+    "job_title": "Marketing Officer",
+    "company_name": "Acme Inc.",
+    "remote_or_onsite": "Onsite",
+    "location": "Chicago, IL",
+    "fulltime_or_parttime": "Full-time",
+    "salary": "$90k - $110k (Per Month)",
+    "job_description": "A marketing officer is an overseer of an organization's marketing campaigns and plays an important role in developing and executing communication concepts and marketing strategies for the company.",
+    "job_responsibility": [
+      "Develop and execute marketing campaigns",
+      "Collaborate with cross-functional teams to create marketing materials",
+      "Analyze and report on marketing performance",
+      "Stay up-to-date with emerging marketing trends and technologies"
+    ],
+    "educational_requirements": "Bachelor's degree in Marketing, Business Administration, or related field",
+    "experiences": "3+ years of experience in marketing management",
+    "contact_information": {
+      "phone": "(555) 555-1234",
+      "email": "jobs@acmeinc.com"
+    }
+  },
+  {
+    "id": 9,
+    "company_logo": "https://i.postimg.cc/L87vq1QB/job9-removebg-preview.png",
+    "job_title": "Software Tester",
+    "company_name": "Tech Co.",
+    "remote_or_onsite": "Onsite",
+    "location": "Seattle, WA",
+    "fulltime_or_parttime": "Full-time",
+    "salary": "$120k - $140k per year",
+    "job_description": "a software tester, you'll be involved in the quality assurance stage of software development and deployment. You'll conduct automated and manual tests to ensure the software created by developers is fit for purpose and any bugs or issues are removed within a product before it gets deployed to everyday users.",
+    "job_responsibility": [
+      "Develop product roadmaps and strategies",
+      "Collaborate with cross-functional teams to build and launch products",
+      "Analyze and report on product performance",
+      "Stay up-to-date with emerging product management trends and technologies"
+    ],
+    "educational_requirements": "Bachelor's degree in Computer Science, Engineering, or related field",
+    "experiences": "5+ years of experience in product management",
+    "contact_information": {
+      "phone": "(555) 555-1234",
+      "email": "jobs@techco.com"
+    }
+  },
+  {
+    "id": 10,
+    "company_logo": "https://i.postimg.cc/cJnhfLVq/job10-removebg-preview.png",
+    "job_title": "Financial Analyst",
+    "company_name": "Finance Co.",
+    "remote_or_onsite": "Remote",
+    "location": "Boston, MA",
+    "fulltime_or_parttime": "Part-time",
+    "salary": "$70k - $90k (Per Month)",
+    "job_description": "A Financial Analyst helps companies and teams make the most of their finances. They provide guidance and advice on how much they should invest in stocks or bonds. They also assess which investments could bring the optimal return for their worth.",
+    "job_responsibility": [
+      "Analyze financial data and create financial models",
+      "Prepare financial reports and presentations",
+      "Collaborate with cross-functional teams to inform financial decisions",
+      "Stay up-to-date with emerging financial analysis trends and technologies"
+    ],
+    "educational_requirements": "Bachelor's degree in Finance, Accounting, Economics, or related field",
+    "experiences": "2+ years of experience in financial analysis",
+    "contact_information": {
+      "phone": "(555) 555-1234",
+      "email": "jobs@financeco.com"
+    }
+  }
+]
